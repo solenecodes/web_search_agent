@@ -1,5 +1,7 @@
-flask==3.0.0
-python-dotenv==1.0.0
-requests==2.31.0
-azure-identity==1.15.0
-azure-ai-projects==1.0.0b1
+python-dotenv
+azure-identity
+azure-ai-projects
+azure-ai-agents
+azure-ai-agentserver-agentframework==1.0.0b3
+agent-framework
+beautifulsoup4
