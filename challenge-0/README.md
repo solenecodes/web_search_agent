@@ -100,12 +100,7 @@ az deployment group create \
 
 ### Option B: Deploy to Azure Button
 
-> ⚠️ **Note:** After forking, update the URL below with your GitHub username.
-
-Once you've pushed to your fork, use this URL format:
-```
-https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FYOUR_GITHUB_USERNAME%2Fagent_service_demo%2Fmain%2Fchallenge-0%2Finfra%2Fazuredeploy.json
-```
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fsolenecodes%2Fweb_search_agent%2Fmain%2Fchallenge-0%2Finfra%2Fazuredeploy.json)
 
 ---
 
